@@ -1,0 +1,8 @@
+name: SoulFlameGrace
+version: 1.0.0
+main: com.soulflame.grace.SoulFlameGrace
+api-version: "1.21"
+
+commands:
+  grace:
+    description: Travel to unlocked soul flames
